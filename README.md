@@ -117,5 +117,6 @@ plt.show()
 <img width="616" height="535" alt="image" src="https://github.com/user-attachments/assets/3b86da00-cff2-46ca-a292-5c9f7a58082f" />
 <img width="798" height="649" alt="image" src="https://github.com/user-attachments/assets/84ce84d6-bb2c-426f-9008-1c6632a5669e" />
 <img width="824" height="405" alt="image" src="https://github.com/user-attachments/assets/c157bde3-8a21-4152-9909-cd431347ec2b" />
+
 ## RESULT:
 All four scaling techniques successfully mapped the numerical features
